@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  listingName: MyString
+  listingDescription: MyText
+  listingCost: 
+  status: false
+
+two:
+  listingName: MyString
+  listingDescription: MyText
+  listingCost: 
+  status: false
